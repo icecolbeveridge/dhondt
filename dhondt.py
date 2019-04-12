@@ -36,7 +36,7 @@ def dhondt(parties, seats):
         
     return parties
 
-# data from https://hanburystrategycloud.filecloudonline.com/url/9c7c2cjz8c2ps8rb
+# data from https://hanburystrategycloud.filecloudonline.com/url/7b8nv4aysfiintcf
 
 SW = [
     Party("CON", 25.5),
